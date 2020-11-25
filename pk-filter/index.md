@@ -47,9 +47,7 @@ export default{
     }
   },
   methods: {
-    handleFilter(){
-
-    },
+    handleFilter(){},
     handleReset(){}
   }
 }
